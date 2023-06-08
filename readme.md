@@ -47,7 +47,7 @@ set myBuddy to a buddy "{to}" of service "E:YOUR_APPLE_ID@icloud.com"
 1. Run the script:
 
 ```bash
-python imessage_assistant.py
+python iReply.py
 ```
 
 The script will perform the following actions:

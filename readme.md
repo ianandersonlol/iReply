@@ -63,4 +63,4 @@ The script will perform the following actions:
 - `send_imessage(to, message)`: Sends the generated response to the specified iMessage handle ID.
 - `main()`: Combines the above functions to read the latest iMessage, generate a response, and send it back to the sender.
 
-**Note**: The script is designed to run on macOS, as it uses the iMessage app and system-specific libraries. The generated response is signed with "BinkyBonky" to indicate that it's from the AI bot and not the user.
+**Note**: The script is designed to run on macOS, as it uses the iMessage app and system-specific libraries. The generated response is signed with "BinkyBonky" to indicate that it's from the AI bot and not the user. Also it has no context of your conversation... so expect hilarity. 
